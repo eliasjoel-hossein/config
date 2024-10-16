@@ -17,6 +17,7 @@
 /pulse/
 /totem/
 /VirtualBox/
+/coc/
 *.list
 gnome-initial-setup-done
 QtProject.conf
