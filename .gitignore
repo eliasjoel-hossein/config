@@ -18,6 +18,12 @@
 /totem/
 /VirtualBox/
 /coc/
+/Code/
+/Thunar/
+/emacs/eln-cache/
+/htop/
+/rofi/
+/xfce4/
 *.list
 gnome-initial-setup-done
 QtProject.conf
