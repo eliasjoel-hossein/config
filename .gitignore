@@ -24,9 +24,12 @@
 /htop/
 /rofi/
 /xfce4/
+/Unknown\ Organization/
 *.list
 gnome-initial-setup-done
 QtProject.conf
 user-dirs.dirs
 user-dirs.locale
 .gsd-keyboard.settings-ported
+zoomus.conf
+zoom.conf
